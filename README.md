@@ -9,8 +9,11 @@
 + Page 1 About Me: Description about myself and my professional goals.
     - Includes picture of myself.
     - Includes 3 buttons that when clicked take you to the respective location or document. These include my github repo, linked in profile, and resume.
+![image info](./images/page_1.PNG)
 + Page 2 Portfolio: Contains pictures, descriptions, and links to webpages or projects that I have created.
+![image info](./images/page_2.PNG)
 + Page 3 Contact: Contains contact info you can use to reach me if needed.
+![image info](./images/page_3.PNG)
 
 #### File Contents:
 + index.html
